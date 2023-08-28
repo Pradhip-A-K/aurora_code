@@ -60,3 +60,6 @@ If this shows, it is not enabled then run the following commands.
 sudo systemctl enable docker.service
 sudo systemctl enable containerd.service
 ```
+Recommended to watch the videos, to get idea regarding docker on robotics,
+1. [Video_1](https://youtu.be/XcJzOYe3E6M?si=wKQqKF9IUb5QJ8Hj)
+2. [Video_2](https://youtu.be/SAMPOK_lazw?si=tuU7Ko0nfLKvrXjH)
