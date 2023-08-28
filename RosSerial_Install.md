@@ -1,4 +1,4 @@
-###  ROSSERIAL AND ARDUINO IDE INSTALLATION
+#  ROSSERIAL AND ARDUINO IDE INSTALLATION
 ## TABLE OF CONTENTS
 1. Arduino IDE installation steps
 2. Rosserial installation steps
