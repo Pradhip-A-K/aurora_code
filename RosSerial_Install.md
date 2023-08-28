@@ -1,13 +1,7 @@
-# TEAM AURORA SOURCE CODE
-This repository contains the team aurora's source code and software installation steps.
+###  ROSSERIAL AND ARDUINO IDE INSTALLATION
 ## TABLE OF CONTENTS
-1. Prerequisites
-2. Arduino IDE installation steps
-3. Rosserial installation steps
-### PREREQUISITES
-1. Ubuntu 20.04 installed (dual boot) on your system/laptop.
-2. Ros Noetic installed.
-3. Some basic linux command related knowledge.
+1. Arduino IDE installation steps
+2. Rosserial installation steps
 ### ARDUINO IDE INSTALLATION STEPS
 1. Click the [LINK](https://www.arduino.cc/en/software) and download the Arduino IDE 1.8.x (Legacy IDE) zip file which will be in the file format ".tar.xz".
 2. Follow the installation procedure given in the [LINK](https://docs.arduino.cc/software/ide-v1/tutorials/Linux) after downloading.
